@@ -211,12 +211,12 @@ git commit -m "Lab 1: home and about pages"
 
 ### Lab 1 checkpoint
 
-* [ ] The app runs with `npm run dev`
-* [ ] Cache Components are off: `next.config.ts` does not contain `cacheComponents`
-* [ ] `/` shows the Movie Night home page with two links
-* [ ] `/about` works and its `<title>` is visible in the page source
-* [ ] `NOTES.md` answers the six questions of step 3
-* [ ] The work is committed
+* [x] The app runs with `npm run dev`
+* [x] Cache Components are off: `next.config.ts` does not contain `cacheComponents`
+* [x] `/` shows the Movie Night home page with two links
+* [x] `/about` works and its `<title>` is visible in the page source
+* [x] `NOTES.md` answers the six questions of step 3
+* [x] The work is committed
 
 ---
 
