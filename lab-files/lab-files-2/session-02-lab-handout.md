@@ -391,13 +391,13 @@ git commit -m "Lab 3: movie pages, layouts, loading, error and not-found"
 
 ### Lab 3 checkpoint
 
-* [ ] The header is on every page, and the link of the current section is bold
-* [ ] `/movies/1` to `/movies/6` show one movie each, with its title in the tab
-* [ ] The build shows ● for the six movie pages, and `/movies/42` is a 404 with the header
-* [ ] The notes field keeps its text between `/movies` and a movie page
-* [ ] You saw the loading state, your not-found page and your error boundary
-* [ ] `NOTES.md` answers the five questions
-* [ ] The work is committed
+* [x] The header is on every page, and the link of the current section is bold
+* [x] `/movies/1` to `/movies/6` show one movie each, with its title in the tab
+* [x] The build shows ● for the six movie pages, and `/movies/42` is a 404 with the header
+* [x] The notes field keeps its text between `/movies` and a movie page
+* [x] You saw the loading state, your not-found page and your error boundary
+* [x] `NOTES.md` answers the five questions
+* [x] The work is committed
 
 ---
 
